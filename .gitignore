@@ -1,0 +1,44 @@
+# Build outputs
+**/build/
+**/.dart_tool/
+**/.gradle/
+**/.kotlin/
+
+# IDE
+**/.idea/
+**/*.iml
+
+# Python
+**/__pycache__/
+**/venv*/
+*.pyc
+
+# Virtual environments
+venv_train/
+
+# Flutter/Dart generated
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/ephemeral/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local properties
+**/local.properties
+
+# Scratch / temporary
+**/scratch/
+
+# Firebase
+firebase-debug.log
+
+# Datasets (too large for GitHub)
+**/papaya_dataset/
+**/papaya_curated_dataset/
+**/unique_bases/
+
+# Logs
+*.log

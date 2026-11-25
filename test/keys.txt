@@ -1,0 +1,5 @@
+API_KEY=AIzaSyDiROOw6arBvzcFnHtKw87d2Y2FJoELD0c
+APP_ID=1:597671358744:android:4d31c435b13973b57e2e6d
+PROJECT_ID=galagate-monkey-species
+SENDER_ID=597671358744
+STORAGE_BUCKET=galagate-monkey-species.firebasestorage.app

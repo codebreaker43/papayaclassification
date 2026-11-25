@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576391511866",
+    "project_id": "papayamaturityclassifica-22800",
+    "storage_bucket": "papayamaturityclassifica-22800.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576391511866:android:400d9c55a74fa0a67b9a03",
+        "android_client_info": {
+          "package_name": "papayamaturityclassification.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3btS73c1IQD1rEpkdGKii3LCfJT5-hfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+0 Papaya Overripe
+1 Papaya Ripe
+2 Papaya Ripening
+3 Papaya Unripe
